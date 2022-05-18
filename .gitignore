@@ -1,3 +1,8 @@
 # notes
 
 notes.txt
+
+*.txt
+
+# cache files
+__pycache__/
